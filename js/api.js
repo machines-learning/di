@@ -1,4 +1,4 @@
-API_RECORD = "http://52.221.206.136:8080/record";
+API_RECORD = "https://52.221.206.136:8080/record";
 
 function getFormatNumber(number) {
     return number < 10 ? "0" + number : number;
