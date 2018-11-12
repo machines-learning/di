@@ -7,3 +7,20 @@ dd {
     margin-top: 0;
     margin-bottom: 0
 }
+
+.row {
+    margin-bottom: 0
+}
+
+.datepicker-modal {
+    max-height: 360px;
+}
+
+.datepicker-controls .select-month input {
+    width: 90px;
+}
+
+
+.page-footer {
+    background-color: #ffffff;
+}
